@@ -1,0 +1,439 @@
+*{
+    margin: 0%;
+}
+.main{
+    
+    height: 420px;
+    width: 100%;
+    background-image:url("	https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.sub{
+ height: 38px;
+ width: 615px;
+ padding-top: 17px;
+ padding-left: 209px;
+ display: inline-block;
+}
+.app{
+    color:rgb(255, 255, 255);
+    font-family: Okra, Helvetica, sans-serif;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 300;
+    font-size: large;
+}
+.sub2{
+    height: 38px;
+    width: 185px;
+    display: inline-block;
+}
+.sub3{
+    height: 38px;
+    width: 152px;
+    display: inline-block;
+}
+.sub4{
+    height: 38px;
+    width: 90px;
+    display: inline-block;
+}
+.zomato-heading-outer{
+    height: 108px;
+    padding-top: 40px;
+    padding-left: 606px;
+}
+.headzomato{
+    height: 60px;
+    width: 300px;
+}
+.discover-outer{
+    padding-left: 440px;
+}
+.discover{
+    font-size: 37px;
+    font-weight: 100;
+    font-family: Okra, Helvetica, sans-serif;
+    color:rgb(255, 255, 255);
+}
+.select-box{
+padding-left: 400px;
+padding-top: 40px;
+display: flex;
+}
+.select{
+height: 57px;
+border-top-left-radius: 8px;
+border-bottom-left-radius: 8px;
+width: 250px;
+border: none;
+margin-right: 0%;
+}
+.magnifiglass-div{
+    display: inline-block;
+    padding-top: 16px;
+    background-color: white;
+    
+}
+.magnifying-glass{
+    height: 25px;
+
+}
+.search{
+    height: 55px;
+    width: 500px;
+    border: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: medium;
+}
+.main2{
+    height: 300px;
+    background-color: white;
+    display: flex;
+    padding-top: 40px;
+    padding-left: 202px;
+    
+}
+.card1{
+   height: 240px;
+   width: 540px;
+   padding-right: 25px; 
+}
+.card1img{
+height: 157px;
+
+background-image: url("https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*");
+background-size: cover;
+background-position: center;
+border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+}
+.card1tile{
+background-color: rgb(219, 219, 219);
+height: 83px;
+border-bottom-left-radius: 12px;
+border-bottom-right-radius: 12px;
+}
+.card1:hover{
+    height: 167px;
+    width: 561px;
+    padding-right: 10px;
+}
+.card2{
+    height: 240px;
+    width: 540px;
+    border: 2px black strong;
+}
+.card2img{
+    height: 157px;
+    background-image: url("https://b.zmtcdn.com/webFrontend/d026b357feb0d63c997549f6398da8cc1647364915.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*");
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    
+}
+.card2tile{
+    background-color: rgb(219, 219, 219);
+height: 83px;
+border-bottom-left-radius: 12px;
+border-bottom-right-radius: 12px;
+
+}
+.card2:hover{
+    height: 167px;
+    width: 561px;
+    padding-right: 10px;
+}
+.dining{
+    font-family:  Okra, Helvetica, sans-serif;
+    font-weight:530;
+    font-size:large;
+    color: rgb(15, 14, 14);
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+.View{
+    font-family: Okra, Helvetica, sans-serif;
+    color: rgb(75, 72, 72);
+    padding-left: 20px;
+    padding-top: 8px;
+}
+.main3{
+    height: 100px;
+    background-color:white;
+    padding-left: 200px;
+}
+.collections{
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+}
+.explore{
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    display: inline-block;
+    float: left;
+}
+.all{
+    color: rgb(224, 53, 70);
+    display: inline-block;
+    padding-left: 250px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 300;
+    float: left;
+}
+.right-arrow{
+    height: 15px;
+    padding-left: 5px;
+}
+.main4{
+    height: 423px;
+    display: flex;
+    padding-left: 200px;
+    gap: 10px;
+}
+.main4card1{
+    height: 319px;
+    width: 267px;
+    cursor: pointer;
+    
+    background-image:url("https://b.zmtcdn.com/data/collections/35ada9497cff86dca8c5060d7942119b_1647342276.jpg?output-format=webp");
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+
+}
+.veggie{
+    color: white;
+    font-size: large;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-top:260px;
+    padding-left: 20px;
+}
+.places{
+    color: white;
+    font-size: large;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 20px;
+}
+.main4card2{
+    height: 319px;
+    width: 267px;
+    cursor: pointer;
+    
+    background-image:url("https://b.zmtcdn.com/data/collections/1b8c164e8a18878468d8aabeb0b486b1_1625812715.jpg?output-format=webp");
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+    padding-right: 10px;
+
+}
+.main4card3{
+    height: 319px;
+    width: 267px;
+    cursor: pointer;
+    
+    background-image:url("https://b.zmtcdn.com/data/collections/ee4046e4f4ece7423f2428ce042982c5_1551089018.jpg?output-format=webp");
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+    padding-right: 10px;
+
+}
+.main4card4{
+    height: 319px;
+    width: 267px;
+    cursor: pointer;
+    
+    background-image:url("https://b.zmtcdn.com/data/collections/8a5e4077f0ce1fce789454b3623e8439_1611749520.jpg?output-format=webp");
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+    padding-right: 10px;
+
+}
+.maindiv5{
+    height: 82px;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Okra, Helvetica, sans-serif;
+    padding-left: 200px;
+}
+.Kochi{
+    height: 82px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.maindiv6{
+height: 396px;
+padding-left: 200px;
+}
+.main6row1{
+height: 100px;
+display: flex;
+gap: 20px;
+padding-bottom: 20px;
+}
+.maindiv6row1col1{
+width: 358px;
+height: 77px;
+text-align: left;
+padding-left: 10px;
+box-shadow: 1px 1px 5px gray;
+border-color:white;
+border-radius: 8px;
+background-color: white;
+cursor: pointer;
+position: relative;
+}
+.maindiv6row1col1:hover{
+    box-shadow: 2px 2px 10px grey;
+}
+
+.Kakkanad{
+    font-size: large;
+    font-family: Okra, Helvetica, sans-serif;
+    display: inline-block;
+    
+}
+.main6rightarrow{
+    height: 15px;
+    position: absolute;
+    left: 90%;
+}
+.main6downarrow{
+    height: 11px;
+    padding: 10px;
+    vertical-align: middle;
+}
+.see-more{
+    font-size: large;
+    font-family: Okra, Helvetica, sans-serif;
+    display: inline-block;
+    padding-left: 100px;
+}
+.maindiv7{
+    height: 480px;
+    background-color: rgb(255,251,247);
+}
+.img-phone{
+    height: 278px;
+    width: 260px;
+    padding-left: 400px;
+}
+.main7text{
+    display: inline-block;
+}
+.main7phoneimg{
+    display: inline-block;
+    float: left;
+}
+.maindiv7-get{
+    color: rgb(28, 28, 28);
+    font-size: 44px;
+    font-weight: 500;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.maindiv7-we{
+    color: rgb(54, 54, 54);
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+.Email{
+    float: left;
+    padding-top: 30px;
+    padding-right: 40px;
+}
+.Phone{
+    padding-top: 30px;
+}
+.share-app{
+    height: 40px;
+    width: 300px;
+    font-size: larger;
+    border-radius: 7px;
+    border-color: gray;
+    
+}
+.main-7button{
+    background-color: rgb(239, 79, 95);
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: large;
+    cursor: pointer;
+}
+.main7-download{
+    color: rgb(54, 54, 54);
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding-top: 20px;
+
+}
+.google-play-img{
+    height: 45px;
+    display: inline-block;
+    float: left;
+}
+.app-store-img{
+    height: 45px;
+    display: inline-block;
+}
+.google-play{
+    height: 50px;
+    width:175px;
+    display: inline-block;
+    float: left;
+    
+}
+.apple-store{
+    height: 50px;
+    width: 175px;
+    display: inline-block;
+
+
+}
+.maindiv8{
+    height: 492px;
+    background: rgb(252, 252, 252);
+}
+.main8sub1{
+    height: 60px;
+    color: rgb(54, 54, 54);
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-left: 200px;
+
+}
+.main8-tiles{
+    height: 90px;
+    padding-left: 202px;
+}
+.main8-button1{
+    height: 70px;
+    width: 1095px;
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: large;
+    text-align: start;
+    color: rgb(54, 54, 54);
+    background-color: white;
+    border-color: lightgray;
+    border-width: 1px;
+    border-radius: 12px;
+    cursor: pointer;
+}
